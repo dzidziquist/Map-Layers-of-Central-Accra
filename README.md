@@ -7,7 +7,7 @@ I am extremely humbled to have this visualiaztion created in Tableau be a part o
 
 View and interact with it [here](https://public.tableau.com/views/MAPLAYERSOFSOMEPARTOFCENTRALACCRA/STREETNAMESSUFFIXES?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Using the Pyrosm is a Python library for reading OpenStreetMap from Protocolbuffer Binary Format -files (*.osm.pbf) into Geopandas GeoDataFrames. I retrieved the shapefiles of the building and driving road network in Accra, the captial city in Ghana. Uploaded these files into QGIS and using the select by radius tool to map out the central part of the Accra and exported it to used in Tableau for visualization. 
+Using the Pyrosm is a Python library for reading OpenStreetMap from Protocolbuffer Binary Format -files (*.osm.pbf) into Geopandas GeoDataFrames. I retrieved the shapefiles of the building and driving road network in Accra, the captial city of Ghana. I uploaded these files into QGIS and using the select by radius tool to map out the central part of the Accra and exported it to used in Tableau for visualization. 
 
 Pyrosm: [Documentation of Pyrosm](https://pyrosm.readthedocs.io/en/latest/index.html)
 
